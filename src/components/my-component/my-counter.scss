@@ -1,0 +1,17 @@
+:host {
+  display: block;
+  display: block;
+}
+
+:host([paint]) {
+  color: red;
+}
+
+
+button {
+  width: 40px;
+}
+
+.value{
+  margin: 0 8px;
+}
